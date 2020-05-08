@@ -1,0 +1,350 @@
+[18-Jan-2020 09:39:09 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/insert.php on line 31
+[18-Jan-2020 09:39:09 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/insert.php on line 31
+[18-Jan-2020 10:56:26 Etc/GMT] PHP Notice:  Undefined index: First name in /home/jobportal/public_html/volunteerinsert.php on line 7
+[18-Jan-2020 10:56:26 Etc/GMT] PHP Notice:  Undefined index: Last name in /home/jobportal/public_html/volunteerinsert.php on line 8
+[18-Jan-2020 10:56:26 Etc/GMT] PHP Notice:  Undefined index: Phone no in /home/jobportal/public_html/volunteerinsert.php on line 9
+[18-Jan-2020 10:56:26 Etc/GMT] PHP Notice:  Undefined index: City in /home/jobportal/public_html/volunteerinsert.php on line 10
+[18-Jan-2020 10:56:26 Etc/GMT] PHP Notice:  Undefined index: Email in /home/jobportal/public_html/volunteerinsert.php on line 11
+[18-Jan-2020 10:56:26 Etc/GMT] PHP Notice:  Undefined index: Pin code in /home/jobportal/public_html/volunteerinsert.php on line 12
+[18-Jan-2020 10:56:26 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 10:56:26 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:00:24 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:00:24 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:00:58 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:00:58 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:21:37 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:21:37 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:32:37 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:32:37 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:40:04 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:40:04 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 22
+[18-Jan-2020 11:59:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/jobportal/public_html/volunteerinsert.php on line 24
+[18-Jan-2020 11:59:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 25
+[18-Jan-2020 11:59:06 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 28
+[18-Jan-2020 11:59:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 28
+[18-Jan-2020 11:59:06 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 11:59:06 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 12:01:04 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 12:01:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 12:01:04 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 12:01:04 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:13:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:13:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:13:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:13:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:13:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:13:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:15:20 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:15:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:15:20 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:15:20 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:17:31 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:17:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:17:31 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:17:31 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:29:47 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:29:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:29:47 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:29:47 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:30:03 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:30:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:30:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:30:03 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:31:03 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:31:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:31:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:31:03 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:32:15 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:32:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:32:15 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:32:15 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:33:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:34:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:35:08 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:35:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/volunteerinsert.php on line 31
+[18-Jan-2020 13:35:08 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:35:08 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 34
+[18-Jan-2020 13:38:26 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/volunteerinsert.php on line 25
+[18-Jan-2020 13:38:26 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/volunteerinsert.php on line 25
+[18-Jan-2020 13:39:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:42:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:50:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:52:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:53:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:54:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 13:57:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 14:04:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 14:05:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 14:05:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 14:05:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 14:05:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 14:05:06 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 25
+[18-Jan-2020 14:05:06 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 25
+[18-Jan-2020 16:09:43 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 16:09:43 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 16:09:43 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 16:09:43 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 16:09:43 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 93
+[18-Jan-2020 16:09:43 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 93
+[18-Jan-2020 16:12:28 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 16:12:28 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 16:12:28 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 16:12:28 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 16:12:28 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 93
+[18-Jan-2020 16:12:28 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 93
+[18-Jan-2020 16:20:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 16:20:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 16:20:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 16:20:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 16:20:35 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 94
+[18-Jan-2020 16:20:35 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 94
+[18-Jan-2020 16:40:08 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 16:40:08 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 16:40:08 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 16:40:08 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 16:40:08 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 95
+[18-Jan-2020 16:40:08 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 95
+[18-Jan-2020 17:05:21 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 17:05:21 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 17:05:21 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 17:05:21 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 17:17:40 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 17:17:40 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 17:17:40 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 17:17:40 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 17:19:03 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 17:19:03 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 17:19:03 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 17:19:03 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 17:34:53 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 17:34:53 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 17:34:53 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 17:34:53 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 17:34:53 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:34:53 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:34:53 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:34:53 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:35:47 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 17:35:47 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 17:35:47 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 17:35:47 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 17:35:47 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:35:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:35:47 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:35:47 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:48:14 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 17:48:14 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 17:48:14 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 17:48:14 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 17:48:14 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:48:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:48:14 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:48:14 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:53:55 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 17:53:55 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 17:53:55 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 17:53:55 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 17:53:55 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:53:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:53:55 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:53:55 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:55:23 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 17:55:23 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 17:55:23 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 17:55:23 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 17:55:23 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:55:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 17:55:23 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 17:55:23 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 21:29:46 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 21:29:46 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 21:29:46 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 21:29:46 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 21:29:46 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 21:29:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 21:29:46 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 21:29:46 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 29
+[18-Jan-2020 21:35:18 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 21:35:18 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 21:35:18 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 21:35:18 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 21:35:18 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 21:35:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 21:35:18 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[18-Jan-2020 21:35:18 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[18-Jan-2020 21:37:57 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 21:37:57 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 21:37:57 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 21:37:57 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 21:37:57 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 21:37:57 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 21:37:57 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[18-Jan-2020 21:37:57 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[18-Jan-2020 21:39:04 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 21:39:04 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 21:39:04 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 21:39:04 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 21:39:04 Etc/GMT] PHP Notice:  Undefined variable: db in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 21:39:04 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jobportal/public_html/donationinsert.php on line 22
+[18-Jan-2020 21:39:04 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 21:39:04 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 21:41:16 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 21:41:16 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 21:41:16 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 21:41:16 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 21:41:16 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 21:41:16 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 21:44:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 21:44:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 21:44:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 21:44:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 21:44:12 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 21:44:12 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 21:57:49 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 21:57:49 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 21:57:49 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 21:57:49 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 21:57:49 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 21:57:49 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 22:21:03 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 22:21:03 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 22:21:03 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 22:21:03 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 22:21:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 22:21:03 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 32
+[18-Jan-2020 22:26:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[18-Jan-2020 22:26:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[18-Jan-2020 22:26:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[18-Jan-2020 22:26:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[18-Jan-2020 22:26:12 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[18-Jan-2020 22:26:12 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 03:54:52 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[19-Jan-2020 03:54:52 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[19-Jan-2020 03:54:52 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[19-Jan-2020 03:54:52 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[19-Jan-2020 03:54:52 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 03:54:52 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 04:00:49 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[19-Jan-2020 04:00:49 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[19-Jan-2020 04:00:49 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[19-Jan-2020 04:00:49 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[19-Jan-2020 04:00:49 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 04:00:49 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 04:38:17 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[19-Jan-2020 04:38:17 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[19-Jan-2020 04:38:17 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[19-Jan-2020 04:38:17 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[19-Jan-2020 04:38:17 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 04:38:17 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 05:38:40 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[19-Jan-2020 05:38:40 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[19-Jan-2020 05:38:40 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[19-Jan-2020 05:38:40 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[19-Jan-2020 05:38:40 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 05:38:40 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 06:07:36 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[19-Jan-2020 06:07:36 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[19-Jan-2020 06:07:36 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[19-Jan-2020 06:07:36 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[19-Jan-2020 06:07:36 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 06:07:36 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 14:48:45 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[19-Jan-2020 14:48:45 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[19-Jan-2020 14:48:45 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[19-Jan-2020 14:48:45 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[19-Jan-2020 14:48:45 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[19-Jan-2020 14:48:45 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Jan-2020 10:59:07 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[22-Jan-2020 10:59:07 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[22-Jan-2020 10:59:07 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[22-Jan-2020 10:59:07 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[22-Jan-2020 10:59:07 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Jan-2020 10:59:07 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Jan-2020 10:59:34 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[22-Jan-2020 10:59:34 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[22-Jan-2020 10:59:34 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[22-Jan-2020 10:59:34 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[22-Jan-2020 10:59:34 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Jan-2020 10:59:34 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Jan-2020 02:03:05 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[23-Jan-2020 02:03:05 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[23-Jan-2020 02:03:05 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[23-Jan-2020 02:03:05 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[23-Jan-2020 02:03:05 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Jan-2020 02:03:05 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Jan-2020 10:05:51 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[23-Jan-2020 10:05:51 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[23-Jan-2020 10:05:51 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[23-Jan-2020 10:05:51 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[23-Jan-2020 10:05:51 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Jan-2020 10:05:51 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[29-Jan-2020 16:06:18 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[29-Jan-2020 16:06:18 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[29-Jan-2020 16:06:18 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[29-Jan-2020 16:06:18 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[29-Jan-2020 16:06:18 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[29-Jan-2020 16:06:18 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 16:56:34 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/feedbackinsert.php on line 23
+[22-Feb-2020 16:56:34 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/feedbackinsert.php on line 23
+[22-Feb-2020 16:59:13 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/feedbackinsert.php on line 23
+[22-Feb-2020 16:59:13 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/feedbackinsert.php on line 23
+[22-Feb-2020 17:02:11 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/feedbackinsert.php on line 23
+[22-Feb-2020 17:02:11 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/feedbackinsert.php on line 23
+[22-Feb-2020 17:34:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[22-Feb-2020 17:34:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[22-Feb-2020 17:34:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[22-Feb-2020 17:34:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[22-Feb-2020 17:34:35 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:34:35 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:36:45 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[22-Feb-2020 17:36:45 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[22-Feb-2020 17:36:45 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[22-Feb-2020 17:36:45 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[22-Feb-2020 17:36:45 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:36:45 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:48:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[22-Feb-2020 17:48:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[22-Feb-2020 17:48:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[22-Feb-2020 17:48:35 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[22-Feb-2020 17:48:35 Etc/GMT] PHP Warning:  mysqli_query(): Empty query in /home/jobportal/public_html/donationinsert.php on line 22
+[22-Feb-2020 17:48:35 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:48:35 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:51:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[22-Feb-2020 17:51:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[22-Feb-2020 17:51:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[22-Feb-2020 17:51:12 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[22-Feb-2020 17:51:12 Etc/GMT] PHP Warning:  mysqli_query(): Empty query in /home/jobportal/public_html/donationinsert.php on line 22
+[22-Feb-2020 17:51:12 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:51:12 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:59:24 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[22-Feb-2020 17:59:24 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[22-Feb-2020 17:59:24 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[22-Feb-2020 17:59:24 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[22-Feb-2020 17:59:24 Etc/GMT] PHP Warning:  mysqli_query(): Empty query in /home/jobportal/public_html/donationinsert.php on line 22
+[22-Feb-2020 17:59:24 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[22-Feb-2020 17:59:24 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Feb-2020 04:00:26 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/feedbackinsert.php on line 23
+[23-Feb-2020 04:00:26 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/feedbackinsert.php on line 23
+[23-Feb-2020 04:55:43 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/feedbackinsert.php on line 23
+[23-Feb-2020 04:55:43 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/feedbackinsert.php on line 23
+[23-Feb-2020 06:33:05 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/feedbackinsert.php on line 23
+[23-Feb-2020 06:33:05 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/feedbackinsert.php on line 23
+[23-Feb-2020 16:53:31 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[23-Feb-2020 16:53:32 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[23-Feb-2020 16:53:32 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[23-Feb-2020 16:53:32 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[23-Feb-2020 16:53:32 Etc/GMT] PHP Warning:  mysqli_query(): Empty query in /home/jobportal/public_html/donationinsert.php on line 22
+[23-Feb-2020 16:53:32 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Feb-2020 16:53:32 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Feb-2020 16:59:30 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 11
+[23-Feb-2020 16:59:30 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 12
+[23-Feb-2020 16:59:30 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 13
+[23-Feb-2020 16:59:30 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/jobportal/public_html/donationinsert.php on line 14
+[23-Feb-2020 16:59:30 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Feb-2020 16:59:30 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Feb-2020 17:01:39 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[23-Feb-2020 17:01:39 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
+[24-Feb-2020 17:11:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jobportal/public_html/numbers.php on line 15
+[24-Feb-2020 17:15:10 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/numbers.php on line 6
+[25-Feb-2020 12:39:48 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/jobportal/public_html/donationinsert.php on line 30
+[25-Feb-2020 12:39:48 Etc/GMT] PHP Notice:  Trying to get property 'error' of non-object in /home/jobportal/public_html/donationinsert.php on line 30
